@@ -1,0 +1,1257 @@
+feature,importance
+gen_type_video_model_7,14.589480003855568
+days_since_last_generation,6.630939810105547
+generation_tenure_days,4.854687297844235
+country_code_IN,3.6739798361656524
+is_business_card,3.6592291991404973
+subscription_tenure_days,3.602477358005845
+purchase_tenure_days,3.5806204963165857
+is_prepaid_card,3.1140197233124747
+days_since_last_purchase,3.0299309474589884
+n_gen_nsfw,2.938618832961063
+gen_type_video_model_10,2.5742811765629923
+country_code_VN,2.330561404404046
+gen_type_video_model_3,2.287072756484513
+country_code_JP,2.1296861309920145
+spend_per_generation,2.120257942394112
+country_code_DE,2.0185397508759633
+gen_type_image_model_1,1.8448433213807343
+country_code_US,1.546170018520731
+gen_type_video_model_2,1.4913176805476387
+n_generations,1.4006959091948932
+country_code_KZ,1.3976816213472865
+total_attempted_usd,1.1911493436446252
+total_spend_usd,1.0107099792003382
+spend_per_purchase_overall,1.005536274517032
+is_virtual_card,0.9726128912453821
+country_code_KR,0.8542100015639832
+country_code_TW,0.8440634355745503
+n_purchases,0.7980817802085572
+avg_purchase_usd,0.7755683189931888
+purch_type_Subscription Update,0.677513995158932
+gen_type_image_model_4,0.672955914152878
+country_code_CA,0.6521033274625603
+max_single_purchase_usd,0.6375352971868304
+gen_type_image_model_3,0.6223526843889368
+team_size_nan,0.6156582995223846
+gen_type_image_model_2,0.6054647324755996
+gen_type_video_model_5,0.5958359568238367
+gen_type_image_model_5,0.5884023296528803
+purch_type_Credits package,0.5547538779566711
+purch_type_Upsell,0.541781785671501
+frustration_inconsistent,0.49970166767884966
+gen_type_video_model_1,0.47589788549910567
+country_code_ID,0.44772352562953943
+country_code_UZ,0.4473827085347242
+source_friends,0.42254951587329065
+avg_days_between_purchases,0.41591177522294265
+usage_plan_marketing,0.41284930986801577
+country_code_GB,0.40413648248000955
+gen_type_video_model_13,0.40353728582208837
+country_code_KG,0.36117040283190044
+gen_type_image_model_8,0.3341252045975989
+country_code_BR,0.3326918529310784
+country_code_IT,0.3322272597450024
+n_transaction_attempts,0.3314229684231736
+gen_type_video_model_11,0.32586253200640136
+country_code_AU,0.3106282864182138
+gen_type_video_model_12,0.30610038222526925
+subscription_plan_Higgsfield Basic,0.2974193131709624
+source_twitter,0.2932487656928157
+country_code_UA,0.2926160165438457
+has_made_purchase,0.2832946827407639
+frustration_Inconsistent results,0.27738916347156056
+n_gen_failed,0.2619559139910187
+country_code_TR,0.2450085075498856
+country_code_CO,0.2405784485478571
+country_code_PK,0.2380531241571672
+n_successful_attempts,0.2190130411311919
+country_code_AQ,0.20477885392025347
+first_feature_Video Generations,0.20078069589550893
+source_instagram,0.19916860087139407
+team_size_1,0.1898178282590195
+quiz_completeness,0.18759712279698623
+subscription_plan_Higgsfield Ultimate,0.1843555775245577
+country_code_NG,0.17184181296791992
+country_code_FR,0.17025495179370653
+role_creator,0.16105940834013618
+team_size_2-10,0.1514365555148311
+country_code_ES,0.15126716390146092
+gen_type_image_model_6,0.15021272796182855
+experience_intermediate,0.1501824047502906
+experience_beginner,0.13782021963141564
+subscription_plan_Higgsfield Creator,0.1330582134073137
+gen_type_video_model_6,0.12362429343009447
+frustration_Other,0.1220717838947271
+first_feature_Commercial & Ad Videos,0.11897810088715871
+team_size_small,0.11651507244405794
+frustration_other,0.1158469166154716
+country_code_AE,0.10783203330352768
+gen_type_image_model_7,0.10626649958277201
+gen_type_video_model_9,0.1029234470051735
+subscription_plan_Higgsfield Pro,0.09312264566936418
+country_code_AT,0.08080158574848707
+experience_nan,0.07759695617791117
+country_code_KH,0.07437589336271604
+usage_plan_personal,0.07374473362939826
+role_just-for-fun,0.07313514407993077
+country_code_MX,0.0718085638815596
+country_code_AM,0.06664876581410183
+country_code_MA,0.06614467876186607
+usage_plan_education,0.06583947606494567
+country_code_HK,0.06442957949002898
+usage_plan_nan,0.060949166071115626
+has_made_generation,0.05982580254749378
+first_feature_Viral Social Media Content,0.054717323519863775
+gen_type_video_model_4,0.05352018819588789
+country_code_TJ,0.052662573112327554
+source_youtube,0.052527387561358795
+gen_type_video_model_8,0.05244192689571435
+country_code_IQ,0.05060835715416038
+frustration_high-cost,0.04940876354791301
+source_chatgpt,0.04830107387766028
+country_code_CH,0.048223839443390384
+first_feature_video-creation,0.04667934914403486
+country_code_SA,0.04656727440725776
+first_feature_nan,0.046464607662138384
+country_code_BY,0.04441454069300717
+role_nan,0.044305129232448275
+role_developer,0.043377945119479656
+country_code_EG,0.0402572284994341
+source_nan,0.03722377617546383
+source_tiktok,0.03687823288896096
+team_size_2001-5000,0.03535805641999793
+first_feature_image-creation,0.034005130126794424
+frustration_Hard to prompt,0.030827524702024475
+country_code_RU,0.02944692227966696
+usage_plan_social,0.029173154219709518
+frustration_nan,0.0286754201351376
+role_educator,0.026254526343411154
+frustration_limited,0.025061780386760258
+country_code_DK,0.022674206318556003
+experience_expert,0.02100993205914587
+country_code_BD,0.02097202266615371
+country_code_CI,0.020862919251710774
+country_code_SG,0.020850845287993944
+usage_plan_filmmaking,0.02015065860949901
+country_code_GM,0.015405754727074235
+country_code_DZ,0.01510850359570304
+country_code_KE,0.01436489415435378
+team_size_enterprise,0.014076023497504185
+experience_advanced,0.01397153800414444
+source_linkedin,0.012984263916550255
+frustration_confusing,0.011149889277987832
+team_size_solo,0.010249483696638344
+first_feature_Image Editing & Inpaint,0.008446651712447743
+first_feature_draw-to-video,0.008031387737228774
+country_code_NZ,0.007718165296139085
+frustration_High cost of top models,0.006017679240462483
+usage_plan_freelance,0.005686144498540359
+country_code_LK,0.00346409834330917
+country_code_BO,0.0027792767098061824
+country_code_JO,0.0025055046107498387
+gen_type_image_model_9,0.0015253383820156975
+country_code_TZ,0.0009887580080277843
+purch_type_Gift,0.0008261847975178025
+flow_type_nan,0.0006802126033787233
+flow_type_personal,6.830470269617677e-05
+role_111,1.7745051821531272e-05
+flow_type_team,1.2828320329700924e-05
+usage_plan_team,1.0470534893248155e-05
+source_;ksjtngheprtjnug,9.04156548200044e-06
+role_мым,7.785614005413693e-06
+source_rednote,4.173458414028581e-07
+source_Друг,2.96063438528848e-07
+country_code_MU,0.0
+country_code_MV,0.0
+country_code_MY,0.0
+country_code_MZ,0.0
+country_code_NC,0.0
+country_code_NE,0.0
+country_code_NI,0.0
+country_code_NL,0.0
+country_code_NO,0.0
+country_code_NP,0.0
+country_code_NU,0.0
+country_code_OM,0.0
+country_code_PA,0.0
+country_code_PE,0.0
+country_code_PF,0.0
+country_code_PG,0.0
+country_code_PH,0.0
+country_code_PL,0.0
+country_code_PR,0.0
+country_code_PS,0.0
+country_code_PT,0.0
+country_code_PY,0.0
+country_code_QA,0.0
+country_code_RE,0.0
+country_code_RO,0.0
+country_code_RS,0.0
+country_code_RW,0.0
+country_code_SB,0.0
+country_code_SC,0.0
+country_code_SE,0.0
+country_code_SI,0.0
+country_code_SJ,0.0
+country_code_SK,0.0
+country_code_SL,0.0
+country_code_SM,0.0
+country_code_SN,0.0
+country_code_SO,0.0
+country_code_SR,0.0
+country_code_SS,0.0
+country_code_ST,0.0
+country_code_SV,0.0
+country_code_SX,0.0
+country_code_SZ,0.0
+country_code_TD,0.0
+country_code_TF,0.0
+country_code_TG,0.0
+country_code_TH,0.0
+country_code_TK,0.0
+country_code_TM,0.0
+country_code_TN,0.0
+country_code_TO,0.0
+country_code_TT,0.0
+country_code_UG,0.0
+country_code_UY,0.0
+country_code_VA,0.0
+country_code_VC,0.0
+country_code_VE,0.0
+country_code_VG,0.0
+country_code_VU,0.0
+country_code_WF,0.0
+country_code_WS,0.0
+country_code_XK,0.0
+country_code_YE,0.0
+country_code_YT,0.0
+country_code_ZA,0.0
+country_code_ZM,0.0
+country_code_ZW,0.0
+country_code_de,0.0
+country_code_nan,0.0
+source_$10K Digital Asset,0.0
+"source_,",0.0
+"source_,b",0.0
+"source_,drxfg",0.0
+"source_,n",0.0
+source_-,0.0
+source_.,0.0
+source_..,0.0
+source_...,0.0
+source_.kg,0.0
+source_/,0.0
+source_//////,0.0
+source_0,0.0
+source_00,0.0
+source_1,0.0
+source_111,0.0
+source_1111,0.0
+source_12,0.0
+source_1233,0.0
+source_123321,0.0
+source_1234,0.0
+source_2,0.0
+source_234к5ц,0.0
+source_4,0.0
+source_58,0.0
+source_:),0.0
+source_@aluncreative,0.0
+source_@atistikstudio on ig,0.0
+source_A book,0.0
+source_A friend,0.0
+source_A friend just told m,0.0
+source_A human friend,0.0
+source_A person,0.0
+source_AAA,0.0
+source_AI Video Bootcamp,0.0
+source_AI class,0.0
+source_AI image course,0.0
+source_AI online lessons,0.0
+source_AI video bootcamp,0.0
+source_AI video course,0.0
+source_ALL,0.0
+source_Ai Course,0.0
+source_All the above,0.0
+source_An AI course,0.0
+source_An industry friend,0.0
+source_An online course for,0.0
+source_Ana Tean course,0.0
+source_Anik Singal,0.0
+source_At an AI course,0.0
+source_BKJ,0.0
+source_Banquet halls,0.0
+source_Boobo,0.0
+source_Brother,0.0
+source_CLUADE,0.0
+source_CXV,0.0
+source_Can't remember,0.0
+source_Can't remember.,0.0
+source_ChatGPT,0.0
+source_Claude,0.0
+source_Clone Creator,0.0
+source_Coach,0.0
+source_Coach Sara  EFA,0.0
+source_Community,0.0
+source_Corso AI,0.0
+source_Course,0.0
+source_CreativePro Network,0.0
+source_Curse,0.0
+source_D-Lab,0.0
+source_DMS,0.0
+source_Daffy & Goofy,0.0
+source_Dani Lozano,0.0
+source_Design,0.0
+source_Deviantart,0.0
+source_Discord,0.0
+source_DラボＡＩチャンネル,0.0
+source_EFA Academy,0.0
+source_Ecom Family Academy,0.0
+source_Ecom Society,0.0
+source_Eddy Miranda,0.0
+source_Employee,0.0
+source_Etsy ebook,0.0
+source_Etsy shop,0.0
+source_Event,0.0
+source_FACEBOK,0.0
+source_FB,0.0
+source_FFAI,0.0
+source_Face Forward Ai,0.0
+source_Facebook,0.0
+source_Facebook reel,0.0
+source_Fashion AI School.,0.0
+source_Film,0.0
+source_Filtih,0.0
+source_Fo fun,0.0
+source_For me,0.0
+source_Franck Houbre,0.0
+source_Friend,0.0
+source_Friend told me,0.0
+source_Friends,0.0
+source_From course about AI,0.0
+source_Gemini,0.0
+source_Gen HQ,0.0
+source_GenHQ Platform,0.0
+source_Girlfriend,0.0
+source_Googled,0.0
+source_Grok,0.0
+source_Grow with Alex,0.0
+source_Guilherme coelho br,0.0
+source_HAKIM,0.0
+source_HH,0.0
+source_Helix Wolfson,0.0
+source_HiggsFeild,0.0
+source_Hotmart,0.0
+source_Hs,0.0
+source_Human Academy,0.0
+source_I don’t remember,0.0
+source_IG,0.0
+source_INSTA,0.0
+source_In a course,0.0
+source_Influencer,0.0
+source_Instagram,0.0
+source_Instagram User,0.0
+source_Internal,0.0
+source_Internet,0.0
+source_Internet art archive,0.0
+source_Introducing my frien,0.0
+source_J'aime ça,0.0
+source_Jejdj,0.0
+source_Jesus told me.,0.0
+source_Jordan Lascurrain,0.0
+source_Just Bank,0.0
+source_Just personal use,0.0
+source_Kaz news,0.0
+source_Kollege,0.0
+source_Laura Sales,0.0
+source_Learn IA,0.0
+source_Lecture,0.0
+source_Liminal Institute,0.0
+source_M,0.0
+source_Marina Mogilki,0.0
+source_Master AI,0.0
+source_Masterclass,0.0
+source_Mentor GPC Chris,0.0
+source_Messenger,0.0
+source_Mindvalley course,0.0
+source_Miroslav,0.0
+source_Monte Magno,0.0
+source_Montemagno,0.0
+source_Mumbai Video,0.0
+source_My Mentor,0.0
+source_My community,0.0
+source_My teacher,0.0
+source_My ur business,0.0
+source_Myfriend,0.0
+source_Na sayte Masterskaya,0.0
+source_NasDaily,0.0
+source_News,0.0
+source_Nicky Cooper Habashy,0.0
+source_Nothing to explain,0.0
+source_OK,0.0
+source_OTHER,0.0
+source_OVDev,0.0
+source_Online,0.0
+source_Online AI Course,0.0
+source_Other,0.0
+source_Partners,0.0
+source_Patreon,0.0
+source_Perplexity,0.0
+source_Philip Johansen,0.0
+source_Platzi,0.0
+source_Protocolo AI,0.0
+source_Publicidade,0.0
+source_REDDIT,0.0
+source_Recommendation,0.0
+source_Recommendations,0.0
+source_Recommended,0.0
+source_Reddit,0.0
+source_Refer,0.0
+source_Referal,0.0
+source_Republic Polytechnic,0.0
+source_Ri Michelle,0.0
+source_SHIFT AI,0.0
+source_Saastr podcast,0.0
+source_School,0.0
+source_Searching,0.0
+source_Simone levie,0.0
+source_Site,0.0
+source_Skool,0.0
+source_Skool Community,0.0
+source_Skool community,0.0
+source_Someone told me abou,0.0
+source_Source,0.0
+source_Speel app,0.0
+source_Stop this,0.0
+source_Suggestion,0.0
+source_TIKTOK,0.0
+source_Talking Twin AI,0.0
+source_Talks,0.0
+source_Teammates,0.0
+source_Telegram,0.0
+source_The Tea Academy,0.0
+source_Threads,0.0
+source_Through Hypeddit,0.0
+source_Through social media,0.0
+source_Tiktok,0.0
+source_Treads,0.0
+source_Try,0.0
+source_Udemy class,0.0
+source_Udmy,0.0
+source_University,0.0
+source_Use it for powerpoin,0.0
+source_Using your services,0.0
+source_Uu,0.0
+source_VCVC,0.0
+source_W,0.0
+source_We are an AI company,0.0
+source_Website,0.0
+source_Whop,0.0
+source_Wij,0.0
+source_Word of mouth,0.0
+source_X,0.0
+source_XR education school,0.0
+source_Xay,0.0
+source_XiaoHongShu,0.0
+source_YT,0.0
+source_YouTube,0.0
+source_Your investors,0.0
+source_Your mom,0.0
+source_Youtube,0.0
+source_Zie,0.0
+source_a,0.0
+source_a course,0.0
+source_a friend,0.0
+source_a friend of mine,0.0
+source_a friend recomendati,0.0
+source_a friend told me,0.0
+source_a traves de autobot,0.0
+source_aaaa,0.0
+source_ads,0.0
+source_adsf,0.0
+source_advaya,0.0
+source_aefdsf,0.0
+source_af,0.0
+source_affiliate,0.0
+source_ai video  bootcamp,0.0
+source_ai-community,0.0
+source_alex fedetoff,0.0
+source_all,0.0
+source_alll social media,0.0
+source_an AI course,0.0
+source_arst,0.0
+source_asd,0.0
+source_asdasd,0.0
+source_asdasdasdasd,0.0
+source_asdf,0.0
+source_asdsad,0.0
+source_asdvaf,0.0
+source_asf,0.0
+source_asfasdf,0.0
+source_at work,0.0
+source_awdawd,0.0
+source_azerty,0.0
+source_aññ,0.0
+source_bi,0.0
+source_bibe,0.0
+source_bro,0.0
+source_business partner,0.0
+source_buy for kling.ai,0.0
+source_c,0.0
+source_caz,0.0
+source_ccc,0.0
+source_cf,0.0
+source_ciao,0.0
+source_coach,0.0
+source_coaching,0.0
+source_college,0.0
+source_communities,0.0
+source_conference,0.0
+source_consultant,0.0
+source_course,0.0
+source_course teacher,0.0
+source_cowoker,0.0
+source_coworker,0.0
+source_creator,0.0
+source_cv,0.0
+source_cvxc,0.0
+source_d,0.0
+source_da,0.0
+source_dasda,0.0
+source_dd,0.0
+source_df,0.0
+source_dffk;l,0.0
+source_dfgh,0.0
+source_discord,0.0
+source_dont know,0.0
+source_drg,0.0
+source_dsa,0.0
+source_dsadsa,0.0
+source_dsd,0.0
+source_dsds,0.0
+source_dsfsd,0.0
+source_dsfsdf,0.0
+source_dskanld,0.0
+source_dvcxsx,0.0
+source_e,0.0
+source_e commerce,0.0
+source_e learning,0.0
+source_efgerg,0.0
+source_erHGTR,0.0
+source_f,0.0
+source_facebook,0.0
+source_fdg,0.0
+source_fellow author,0.0
+source_ffddf dfgdfgdfb dfgb,0.0
+source_fgdfg,0.0
+source_fgdhjd,0.0
+source_fgg,0.0
+source_film,0.0
+source_formation,0.0
+source_frend,0.0
+source_friend,0.0
+source_friend suggested,0.0
+source_friend told me,0.0
+source_frind,0.0
+source_frinds,0.0
+source_from a course,0.0
+source_from a friend,0.0
+source_from colleague,0.0
+source_from friend,0.0
+source_from my professor,0.0
+source_from organic ads,0.0
+source_from someone mouth,0.0
+source_fuck off you cunt,0.0
+source_fuiifyfsfsuyfsicuucb,0.0
+source_g,0.0
+source_gg,0.0
+source_gh ouvhp0,0.0
+source_ghghgftgutudtftgyfcd,0.0
+source_ghjhjhkh,0.0
+source_google,0.0
+source_grok,0.0
+source_gumba,0.0
+source_gv,0.0
+source_h,0.0
+source_heaya,0.0
+source_hfdbbfjhgjhg,0.0
+source_hgf,0.0
+source_hi,0.0
+source_higgesfield is good,0.0
+source_home,0.0
+source_htht,0.0
+source_huga academy,0.0
+source_i dont knox,0.0
+source_i dont rememeber,0.0
+source_i know who you are,0.0
+source_i worked here,0.0
+source_idk,0.0
+source_in video tutorials,0.0
+source_influencer,0.0
+source_insta,0.0
+source_internet,0.0
+source_intrest,0.0
+source_iojknp,0.0
+source_iuj7yj77y,0.0
+source_jgjckckck,0.0
+source_jj,0.0
+source_jk,0.0
+source_jnhbg,0.0
+source_just let me in,0.0
+source_just trying,0.0
+source_k,0.0
+source_ki,0.0
+source_kl;mjkimnjiknjikj,0.0
+source_klp;kolp,0.0
+source_knowledge,0.0
+source_kurs,0.0
+source_lam.work,0.0
+source_lara sales,0.0
+source_life,0.0
+source_lkhjlkjlkjkl,0.0
+source_lkihugy,0.0
+source_lover,0.0
+source_marketing email,0.0
+source_me contactaron,0.0
+source_mentor,0.0
+source_mfz,0.0
+source_mn,0.0
+source_mrHung,0.0
+source_my bro Alisher told,0.0
+source_my favorite luna,0.0
+source_my friend,0.0
+source_my friend told me,0.0
+source_my frind told me,0.0
+source_my god leave me alon,0.0
+source_my husband,0.0
+source_my mentor,0.0
+source_ah ah !,0.0
+source_my son told me,0.0
+source_my teacher,0.0
+source_myself,0.0
+source_n,0.0
+source_na,0.0
+source_nada,0.0
+source_news,0.0
+source_nn,0.0
+source_no,0.0
+source_no idea,0.0
+source_none of your bunsis,0.0
+source_o,0.0
+source_office,0.0
+source_ok,0.0
+source_olmmk,0.0
+source_one influencer,0.0
+source_online,0.0
+source_other,0.0
+source_outreach,0.0
+source_p,0.0
+source_philip Johansen,0.0
+source_pkm,0.0
+source_por casualidad,0.0
+source_pornhub,0.0
+source_practice,0.0
+source_projet perso,0.0
+source_q,0.0
+source_qwe,0.0
+source_random,0.0
+source_ravi,0.0
+source_rawr,0.0
+source_recommendation,0.0
+source_red,0.0
+source_red book,0.0
+source_redddit,0.0
+source_reddit,0.0
+country_code_BE,0.0
+source_reel facebook,0.0
+source_refered for a frien,0.0
+source_referral,0.0
+source_referred,0.0
+source_refver,0.0
+source_research,0.0
+source_review,0.0
+source_reviews on ai  media,0.0
+source_rfefbhhhhhhhrffvvvvb,0.0
+source_rqwe,0.0
+source_rr,0.0
+source_s,0.0
+source_sadcs,0.0
+source_sanane,0.0
+source_saw someone,0.0
+source_school,0.0
+source_sdf,0.0
+source_sdfgsfsadfsad,0.0
+source_sdfs,0.0
+source_sdjhew,0.0
+source_searching,0.0
+source_seee,0.0
+source_seffs,0.0
+source_sf,0.0
+source_sita,0.0
+source_skook aicc,0.0
+source_skool,0.0
+source_skool community,0.0
+source_skool.com/master,0.0
+source_social media,0.0
+source_social network,0.0
+source_speaker,0.0
+source_speaking with friend,0.0
+source_srtehbd,0.0
+source_sscsdsds,0.0
+source_studenten saxion,0.0
+source_t,0.0
+source_teacher,0.0
+source_tegetg,0.0
+source_telegram,0.0
+source_telegram channel,0.0
+source_tg,0.0
+source_tg'ez'tg,0.0
+source_thinking,0.0
+source_threads,0.0
+source_tikotk,0.0
+country_code_AF,0.0
+source_trough a friend,0.0
+source_tv,0.0
+has_failed_payment,0.0
+source_v,0.0
+source_verbal,0.0
+source_viral,0.0
+source_w,0.0
+source_wdfwrfe,0.0
+source_wedding video editer,0.0
+source_weddings projects,0.0
+source_weqfqwefqw,0.0
+source_word,0.0
+source_word of mouth,0.0
+source_word-of-mouth,0.0
+source_work,0.0
+source_work people,0.0
+source_working in marketing,0.0
+source_workshop,0.0
+source_wscw,0.0
+source_www,0.0
+source_x,0.0
+source_x and youtube,0.0
+source_xaxax,0.0
+source_ya mum,0.0
+source_yanet Atlanta Academ,0.0
+source_yes,0.0
+source_yi,0.0
+source_yoo,0.0
+country_code_AD,0.0
+source_youtube.com,0.0
+source_z,0.0
+source_zindabad,0.0
+gen_success_rate,0.0
+source_Друзья айтады,0.0
+source_Приснились во сне,0.0
+source_авиавиваитавчиптчапт,0.0
+source_е,0.0
+source_й,0.0
+source_кент,0.0
+source_от себя нахуй узнал,0.0
+source_ощ,0.0
+source_пквуркап,0.0
+"source_ъмр,",0.0
+source_‎,0.0
+source_…,0.0
+source_ㅁㄴ,0.0
+source_ㅎㄹ,0.0
+country_code_BF,0.0
+flow_type_invited,0.0
+country_code_BG,0.0
+country_code_BH,0.0
+country_code_BI,0.0
+country_code_BJ,0.0
+team_size_11-50,0.0
+country_code_BM,0.0
+country_code_BN,0.0
+team_size_5000+,0.0
+team_size_501-2000,0.0
+team_size_51-500,0.0
+country_code_BQ,0.0
+team_size_growing,0.0
+team_size_large,0.0
+team_size_midsize,0.0
+country_code_BS,0.0
+country_code_BT,0.0
+country_code_BV,0.0
+country_code_BW,0.0
+country_code_BZ,0.0
+country_code_CD,0.0
+country_code_CF,0.0
+country_code_CG,0.0
+country_code_CK,0.0
+source_my professor,0.0
+country_code_CL,0.0
+country_code_CM,0.0
+country_code_CN,0.0
+country_code_CR,0.0
+country_code_CV,0.0
+country_code_CW,0.0
+frustration_AI is confusing to me,0.0
+country_code_CY,0.0
+country_code_CZ,0.0
+country_code_DM,0.0
+frustration_Limited generations,0.0
+country_code_DO,0.0
+country_code_EC,0.0
+frustration_hard-prompt,0.0
+country_code_EE,0.0
+country_code_EH,0.0
+country_code_ER,0.0
+country_code_ET,0.0
+country_code_FI,0.0
+first_feature_Cinematic Visuals,0.0
+country_code_FJ,0.0
+country_code_FK,0.0
+first_feature_Image Generation,0.0
+first_feature_Lipsync & Talking Avatars,0.0
+first_feature_Realistic AI Avatars,0.0
+first_feature_Realistic Avatars & AI Twins,0.0
+first_feature_Storyboarding,0.0
+first_feature_Upscale,0.0
+first_feature_Video Generation,0.0
+country_code_FO,0.0
+country_code_GA,0.0
+first_feature_consistent-character,0.0
+country_code_GD,0.0
+first_feature_edit-image,0.0
+country_code_GE,0.0
+first_feature_product-placement,0.0
+first_feature_talking-avatars,0.0
+first_feature_upscale,0.0
+country_code_GF,0.0
+first_feature_viral-effects,0.0
+country_code_GG,0.0
+"role_""",0.0
+role_$$$,0.0
+role_',0.0
+"role_,",0.0
+"role_,,",0.0
+"role_,hjbh",0.0
+role_-,0.0
+role_--,0.0
+role_.,0.0
+role_..,0.0
+role_...,0.0
+role_.......,0.0
+role_/,0.0
+role_//////,0.0
+role_0,0.0
+role_1,0.0
+country_code_GH,0.0
+role_1111,0.0
+role_12,0.0
+role_12312,0.0
+role_2 4s in a 4 door,0.0
+role_333,0.0
+role_3d,0.0
+role_65,0.0
+role_768uty,0.0
+role_<,0.0
+role_A mix of everything,0.0
+role_A person,0.0
+role_AD,0.0
+role_Aaaaa,0.0
+role_Adult Content Creato,0.0
+role_Advertising agency,0.0
+role_Agency,0.0
+role_Ai creator,0.0
+role_Architect,0.0
+role_Artigiano,0.0
+role_Artist,0.0
+role_Bbh,0.0
+role_Belly Dancer,0.0
+role_CEO,0.0
+role_CREATE CONTENT,0.0
+role_Cccv,0.0
+role_Concept artist,0.0
+role_Content Creator,0.0
+role_Creating model,0.0
+role_Creative,0.0
+role_Creative Director,0.0
+role_Creator for NGO,0.0
+role_Dating,0.0
+role_Dentist,0.0
+role_Dermopigmentista,0.0
+role_Design,0.0
+role_Design Experimentor,0.0
+role_Director,0.0
+role_Director of Sales,0.0
+role_Divine cat priestess,0.0
+role_E,0.0
+role_Ecom,0.0
+role_Educator,0.0
+role_Engineer,0.0
+role_Entrepenaur,0.0
+role_Event Promoter,0.0
+role_Explorrador,0.0
+role_FSF,0.0
+role_Film,0.0
+role_Film maker,0.0
+role_Fkvf,0.0
+role_For fun,0.0
+role_Founder,0.0
+role_Freelance,0.0
+role_Freelancer,0.0
+role_Fun,0.0
+role_Fundi,0.0
+role_G,0.0
+role_General Manager,0.0
+role_Gg,0.0
+role_Ggg,0.0
+role_Goverment,0.0
+role_Graphic Designer,0.0
+role_Head of AI in TBWA,0.0
+role_Heeje,0.0
+role_Hi,0.0
+role_High ticket sales,0.0
+role_Hobbiest,0.0
+role_I have no idea,0.0
+role_I hve a tiktok store,0.0
+role_Im a music producer,0.0
+role_In adult environment,0.0
+role_Interior architect,0.0
+role_Interior designer ..,0.0
+role_J,0.0
+role_Ja,0.0
+role_Jhj,0.0
+role_Just a person,0.0
+role_Just random stuff,0.0
+role_Juste make all thing,0.0
+role_Learner,0.0
+role_Libera professionist,0.0
+role_Loslaten,0.0
+role_Luxury Real Estate,0.0
+role_Maintenance worker,0.0
+role_Meow!!!,0.0
+role_Music Artist,0.0
+role_Music Producer,0.0
+role_Music artist,0.0
+role_Musician,0.0
+role_New carrier,0.0
+role_OTHER,0.0
+role_Other,0.0
+role_PHOTOGRAPHER,0.0
+role_Photographer,0.0
+role_Privat,0.0
+role_Real estate agent,0.0
+role_Retard,0.0
+role_Retoucher,0.0
+country_code_GI,0.0
+role_STUDENT,0.0
+role_Sales,0.0
+role_Self use,0.0
+role_Seller,0.0
+role_Small business owner,0.0
+role_Student,0.0
+role_TEAM,0.0
+role_Testing,0.0
+role_Ttt,0.0
+"role_UGC, Image editing,",0.0
+role_Various,0.0
+role_Video,0.0
+role_Video Production,0.0
+role_X,0.0
+role_XFB,0.0
+role_Yggg,0.0
+role_ZAZA,0.0
+role_a,0.0
+role_aa,0.0
+role_aaaaa,0.0
+role_ad,0.0
+role_adsd,0.0
+role_aelktjgnwproiutnb,0.0
+role_agancy,0.0
+role_agency,0.0
+role_ai creator,0.0
+role_architect,0.0
+role_art,0.0
+role_artist,0.0
+role_asd,0.0
+role_asdadasd,0.0
+role_asdasd,0.0
+role_asdasdasda,0.0
+role_asdawd,0.0
+role_asdf,0.0
+role_asfawa,0.0
+role_asfd,0.0
+role_asfsdgbvvxzasd,0.0
+role_axax,0.0
+role_b,0.0
+role_basic,0.0
+role_bb,0.0
+role_bbb,0.0
+role_beginner,0.0
+role_ben istedim,0.0
+role_bh,0.0
+role_bn,0.0
+role_bored,0.0
+role_brand-owner,0.0
+role_bye,0.0
+role_cinema engineer,0.0
+role_coloring book,0.0
+role_communication,0.0
+role_comprehensively,0.0
+role_content creation,0.0
+role_content-creator,0.0
+country_code_GL,0.0
+"role_creator, prompt and",0.0
+role_d,0.0
+role_dasd,0.0
+role_dd,0.0
+role_ddcdcc,0.0
+role_ddd,0.0
+role_deneme,0.0
+role_designer,0.0
+country_code_GN,0.0
+role_dewq,0.0
+role_df,0.0
+role_dfdfd,0.0
+role_dfsdgdvfsd,0.0
+role_dgd,0.0
+role_dgsadg,0.0
+role_dhjsjdks,0.0
+role_divertimento,0.0
+role_ds,0.0
+role_dsadas,0.0
+role_dsadsa,0.0
+role_dsf,0.0
+role_dsfsd,0.0
+role_dsvsa,0.0
+role_e,0.0
+role_e-commerce expert,0.0
+role_ecom,0.0
+role_editor,0.0
+role_editor journalist we,0.0
+country_code_GP,0.0
+role_educatotoe,0.0
+role_efhjvwhejfv hm,0.0
+role_enterpreneu,0.0
+role_entusiast,0.0
+role_erthy,0.0
+role_erto,0.0
+role_esnaf,0.0
+role_f,0.0
+role_fafa,0.0
+role_fc,0.0
+role_fff,0.0
+role_fgdfg,0.0
+role_fgghj,0.0
+role_fhgt,0.0
+role_filmmaker,0.0
+role_filmmaking,0.0
+role_fisioterapista,0.0
+role_for edu,0.0
+role_for me,0.0
+role_for personal use,0.0
+role_founder,0.0
+role_fsdfsfsdf,0.0
+role_fsewfqwefwqf,0.0
+role_furniture,0.0
+role_g,0.0
+role_gg,0.0
+role_ghj,0.0
+role_ghtcde57 5t cy,0.0
+role_grrghtdhdbdf,0.0
+role_h,0.0
+role_here,0.0
+role_hh,0.0
+role_hobby,0.0
+role_idk,0.0
+role_iii,0.0
+role_ion,0.0
+role_j,0.0
+role_jbjkbk,0.0
+role_jj,0.0
+role_jjj,0.0
+role_jjjj,0.0
+role_jjjjj,0.0
+role_jko,0.0
+role_just for fun,0.0
+role_just making content,0.0
+role_just me,0.0
+country_code_GQ,0.0
+role_k,0.0
+role_ke,0.0
+role_kloihi,0.0
+"role_km,l",0.0
+role_l,0.0
+role_lawyer,0.0
+role_life Coach,0.0
+role_ll,0.0
+role_lo,0.0
+role_lol,0.0
+role_lraave me along,0.0
+role_m,0.0
+role_marketer,0.0
+role_marketing,0.0
+role_markting,0.0
+role_me,0.0
+role_mgvk,0.0
+role_mk,0.0
+role_mn,0.0
+role_mnn,0.0
+role_mp:pmp,0.0
+role_multi facted,0.0
+role_music,0.0
+role_S,0.0
+role_musican,0.0
+role_musician,0.0
+"role_musician, artist",0.0
+role_n,0.0
+role_n n,0.0
+role_na,0.0
+role_nada,0.0
+role_nao falar,0.0
+role_no,0.0
+role_none of your buisnse,0.0
+role_nothin,0.0
+role_obbista,0.0
+role_ok,0.0
+role_oljio,0.0
+role_other,0.0
+role_pene,0.0
+role_personal,0.0
+role_perspnale,0.0
+role_photo,0.0
+role_photo retoucher,0.0
+role_photographer,0.0
+role_pornstar,0.0
+role_private,0.0
+role_product-lead,0.0
+role_project manager,0.0
+role_prompt-engineer,0.0
+role_q,0.0
+role_r,0.0
+role_racism,0.0
+role_rapper,0.0
+role_rawr,0.0
+role_real estate agent,0.0
+role_realisateur,0.0
+role_repurposing content,0.0
+role_retoucher,0.0
+role_rewq,0.0
+role_ry67uik,0.0
+role_s,0.0
+role_sa,0.0
+role_sanane,0.0
+role_sdasdasdasdasddasdad,0.0
+role_sdfd,0.0
+role_sdfgdsdf,0.0
+role_sdfsdgsdg,0.0
+role_sef,0.0
+role_seiohe,0.0
+role_sg,0.0
+role_shopify store,0.0
+role_srgs,0.0
+role_ss,0.0
+role_student,0.0
+role_tech enthusiast,0.0
+role_test,0.0
+role_teste,0.0
+role_testing,0.0
+role_tfwejcwc,0.0
+role_thknking,0.0
+role_thtyhyhyh,0.0
+role_ttttttttttttttt,0.0
+role_twsrt,0.0
+role_uikiuuiiu,0.0
+role_ujyrjuyrryjyjhr,0.0
+role_uvuhb,0.0
+role_ver,0.0
+role_video,0.0
+role_video editing creati,0.0
+role_video editor,0.0
+role_vvv,0.0
+role_w,0.0
+role_wasdc,0.0
+role_wdasd,0.0
+role_website,0.0
+role_wf,0.0
+role_x,0.0
+role_xc,0.0
+role_xcbxzhcadsyubvf,0.0
+role_xcfgdbcvbdfggh,0.0
+role_xd,0.0
+role_xx,0.0
+role_xxx,0.0
+role_yes,0.0
+role_yess,0.0
+role_ygyiu,0.0
+role_yo,0.0
+role_zqdqz,0.0
+role_zx,0.0
+role_zxcvzxv,0.0
+role_đá,0.0
+role_а,0.0
+role_вымыпвпварыереыарере,0.0
+role_зшыфкфукф,0.0
+role_и,0.0
+role_й,0.0
+country_code_GR,0.0
+role_н6м46м,0.0
+role_прпра,0.0
+role_יוצר תוכן,0.0
+role_‎,0.0
+role_ㄹㅇ호,0.0
+role_ㅁㄴ,0.0
+country_code_GT,0.0
+country_code_GU,0.0
+country_code_GW,0.0
+country_code_GY,0.0
+country_code_HN,0.0
+country_code_HR,0.0
+country_code_HT,0.0
+purch_type_Reactivation,0.0
+purch_type_Subscription Create,0.0
+country_code_HU,0.0
+country_code_IE,0.0
+country_code_IL,0.0
+country_code_IM,0.0
+country_code_IS,0.0
+country_code_JE,0.0
+n_failed_attempts,0.0
+country_code_JM,0.0
+n_card_declined,0.0
+country_code_KM,0.0
+country_code_KW,0.0
+country_code_KY,0.0
+country_code_LA,0.0
+payment_failure_rate,0.0
+country_code_LB,0.0
+n_gen_completed,0.0
+country_code_LC,0.0
+country_code_AG,0.0
+country_code_AI,0.0
+country_code_AL,0.0
+country_code_LI,0.0
+country_code_AO,0.0
+country_code_LR,0.0
+country_code_AR,0.0
+country_code_LS,0.0
+country_code_LT,0.0
+country_code_AW,0.0
+country_code_AZ,0.0
+country_code_BA,0.0
+country_code_BB,0.0
+country_code_LU,0.0
+subscription_plan_nan,0.0
+country_code_LV,0.0
+country_code_LY,0.0
+country_code_MC,0.0
+country_code_MD,0.0
+country_code_ME,0.0
+country_code_MG,0.0
+country_code_MK,0.0
+country_code_ML,0.0
+country_code_MM,0.0
+country_code_MN,0.0
+country_code_MO,0.0
+country_code_MQ,0.0
+country_code_MR,0.0
+country_code_MS,0.0
+country_code_MT,0.0
+role_music producer,0.0
